@@ -1,7 +1,5 @@
 This library allows you to create single instance applications.
 
-**Use `Asjc.*` instead of `AS.*` and `AsUtils.*`!**
-
 ## Getting started
 
 Call the `SingletonApp.Check` method at an appropriate place. It will return a bool indicating whether the application is a new instance.
